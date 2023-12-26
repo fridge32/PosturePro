@@ -20,7 +20,7 @@ PosturePro is a posture monitoring application designed to help you maintain a h
 
 - **Posture Alerts**: Receive visual and audible alerts if your posture deviates significantly from the calibrated perfect posture for an extended duration.
 
-- **Customizable sound alerts**: Change the sound alert to whatever you want by following instructions in "Customizing Sound Alerts" section.
+- **Customizable sound alerts**: Change the sound alert to whatever you want by following instructions in the "Customizing Sound Alerts" section.
 
 - **Pause/Resume Video Feed**: Conveniently pause and resume the video feed using the 'Esc' key, allowing you to temporarily disable posture monitoring.
 
