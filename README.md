@@ -1,4 +1,10 @@
-# PosturePro: Professional Posture Monitoring App
+<p align="center">
+  <img src="https://github.com/AnuronDutta/PosturePro/assets/62471257/9fefba00-e2ae-448d-aff7-24000381885e" alt="Logo" height=170></a>
+</p>
+
+# PosturePro: Posture Monitoring App
+
+
 
 ## Overview
 
