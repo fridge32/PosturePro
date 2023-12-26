@@ -34,6 +34,34 @@ PosturePro is a posture monitoring application designed to help you maintain a h
 
 - **'Q' Key**: Quit the application.
 
+## How To Use
+
+**Calibrate Your Perfect Posture:**
+
+- Upon opening the app, move into your preferred position and press 'P' to record it.
+- Leave the program running in the background as you continue your work.
+
+**Receive Posture Alerts:**
+
+- The app will monitor your posture and provide visual and audio alerts when it deviates from the recorded position beyond a specific angle and time threshold.
+- These alerts will remind you to correct your posture.
+
+**Monitor Key Parameters:**
+
+- The recorded perfect posture angle, deviation angle threshold, and time threshold are displayed in the top right corner of the app.
+
+**Pause and Adjust Settings:**
+
+- Press 'Esc' to pause the video feed temporarily.
+- Use the following keys to adjust settings:
+  - 'I': Decrease deviation angle threshold
+  - 'O': Increase deviation angle threshold
+  - 'K': Decrease time threshold
+  - 'L': Increase time threshold
+
+**Exit the Application:**
+
+- Press 'Q' or manually close the window to exit the application.
 ## Getting Started
 
 1. **Download**: Download the `PosturePro.exe` file from the release section.
