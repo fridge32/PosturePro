@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AnuronDutta/PosturePro/assets/62471257/9fefba00-e2ae-448d-aff7-24000381885e" alt="Logo" height=170></a>
+  <img src="https://github.com/AnuronDutta/PosturePro/assets/62471257/c2cebcf1-dac9-4519-b4b7-3bf7c5c23dc3" alt="Logo" height=200></a>
 </p>
 
 # PosturePro: Posture Monitoring App
