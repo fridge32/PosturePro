@@ -96,6 +96,17 @@ PosturePro is a posture monitoring application designed to help you maintain a h
 
 - Customize the application settings based on your preferences and comfort level.
 
+## Gallery
+<p align="center">
+  <img src="https://github.com/AnuronDutta/PosturePro/assets/62471257/b08e51ef-cbdc-4c79-8a3c-65a9be21730a" height=500></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnuronDutta/PosturePro/assets/62471257/bfa45311-b2f3-48ec-b5f9-1c0c84dec212" height=500></a>
+</p>
+
+
+
 ## Troubleshooting
 
 - If issues persist, please refer to the relevant documentation for:
